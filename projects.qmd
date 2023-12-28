@@ -1,0 +1,6 @@
+---
+title: projects/ products
+---
+
+this is where the projects the scholars & reus have completed will be loaded.
+either in photos or links or whatever with a description.
