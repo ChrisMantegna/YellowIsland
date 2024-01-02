@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Long Term Intertidal Monitoring on Yellow Island *A Black In Marine Science X The Nature Conservancy Program*"
+  title: "Long Term Intertidal Monitoring on Yellow Island" 
   navbar:
     right:
       - href: index.qmd
@@ -25,3 +25,5 @@ format:
     toc: true
     
 editor: visual
+
+# *A Black In Marine Science X The Nature Conservancy Program*"
