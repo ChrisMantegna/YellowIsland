@@ -8,8 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: 2022.qmd
+        text: 2022 Cohort
+      - href: 2023.qmd
+        text: 2023 Cohort
       - href: projects.qmd
         text: Projects
       - href: mentorship.qmd
@@ -20,7 +22,7 @@ website:
         href: https://twitter.com/SaffireSeahorse
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
     
