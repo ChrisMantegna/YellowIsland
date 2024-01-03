@@ -8,11 +8,12 @@ Over the last tow sessions, students have engaged with more than 20 scientists i
 
 Check back to see the work and biographies of our esteemed scientists and artists!
 
-| Chris Mantegna | Matt Axling | Tiara Moore, PhD | Camille Gaynus, PhD |
-| Program Mentor | Program Mentor | BIMS CEO | BIMS Chief Science Officer |
+| Chris Mantegna \| Matt Axling \| Tiara Moore, PhD \| Camille Gaynus, PhD \|
+| Program Mentor \| Program Mentor \| BIMS CEO \| BIMS Chief Science Officer \|
 
-|-----------------|--------------|------------------|----------------------------|
-|  |  |  |
+\|-----------------\|--------------\|------------------\|----------------------------\|
+
+\| ![](images/myheadshot.JPG){width="120"} \| ![](images/matt.png){width="90"} \| ![](images/tiara.png){width="65"} \| ![](images/camille.png){width="70" height="87"} \|
 
 | Malik Johnson \| Kristen Privitera - Johnson \| Moronke Harris \| Julietta Martinelli, PhD \|
 | Naturalist \| Graduate Student \| Graduate Student \| Postdoc, UW SAFS \|
@@ -21,6 +22,7 @@ Check back to see the work and biographies of our esteemed scientists and artist
 
 | Natalie Baillargeon \| Sarah Tanja \| Andrea Pierce \| \| Jose Guzman, PhD \|
 | Graduate Student \| Graduate Student \| Scientific Artist \| Professor, UW \|
+| 
 
 \|-----------\|-------------------\|------------------\|------------------\| \|
 
