@@ -8,10 +8,26 @@ The impacts of anthropogenic activities on natural environments are growing ever
 
 The Yellow Island project focus is on (1) understanding the island's ecology using observation, molecular techniques, and the synthesis of multi-source data, and (2) understanding the interconnectedness of the Salish Sea ecosystem and the foundational changes induced by human activities and climate change. Students worked onsite at Yellow Island and in the lab at Friday harbor Labs collecting qualitative and quantitative data that can help us answer questions of intertidal community composition, food web dynamics, predator prey interactions, and physiological trade-offs in the face of a changing climate.
 
-![Yellow Island as seen on approach by boat. **Photo credit**: Angel Quimbita.](images/yi.jpg){width="3032"}
+![Yellow Island as seen on approach from the Friday Harbor side by boat. Photo credit: Angel Quimbita.](images/yi.jpg){width="3000"}
 
 ## *Program Development*
 
 The program was created by a collaboration led by University of Washington graduate student Chris Mantegna. The primary program sponsor (support) is Black In Marine Science (BIMS), helmed by CEO Dr. Tiara Moore and BIMS Chief Science Officer Dr. Camille Gaynus. The program partner is The Nature Conservancy (TNC) with on-site co-mentor and Yellow Island Land Steward Matt Axling.
 
-Working together we identified a need for immediate and long- term data of the marine environment for TNC, the managers of Yellow Island. TNC would reciprocate by providing access to the island to scholars from marginalized backgrounds to learn ecological field methods safely and without interference. Yellow Island is an 11 acre island that will take
+Working together we identified a need for immediate and long- term data of the marine environment for TNC, the managers of Yellow Island. TNC would reciprocate by providing access to the island to scholars to learn ecological field methods safely and without interference. Yellow Island is an 11 acre island that will take personnel to support survey efforts. Partnering with the Doris Duke Conservation Scholars Program and the Friday Harbor Labs REU program an 8- week program that can support providing a snapshot in time of health of the Salish Sea by meeting the following goals:
+
+-   Ecology - Using observation, molecular techniques, and the synthesis of multi-source data 
+
+-   Conservation - Salish Sea ecosystem and the changes induced by human activities 
+
+-   Community - Increasing environmental literacy skills in a safe field site while supporting community driven questions
+
+### Click on the cohort year to see what they accomplished over their summer internship.
+
+|                                                                 [2022 Cohort](https://chrismantegna.github.io/yellowisland/2022.html)                                                                 |                                                                            [2023 Cohort](https://chrismantegna.github.io/yellowisland/2023.html)                                                                            |
+|:-----------------------------------:|:---------------------------------:|
+|                                                   ![](images/2022yiall.JPG){width="348"}                                                    |                                                              ![](images/2023yiall.jpg){width="350"}                                                               |
+|                                                                                                                                             |                                                                                                                                                                   |
+| 2022 DDCSP Scholars with program mentors. From left to right, Chris Mantegna, Angel Quimbita, Luna Peralta, Taylor Umetsu, and Matt Axling. | 2023 DDCSP and REU Scholars with program mentors. From left to right, Chris Mantegna, Carley Bishop, Logan Evans, Kamryn You Mak, Coira Williams, and Matt Axling |
+
+![*This program wouldn't be possible without the support of these organizations. Thank you!*](images/logobar.png)
