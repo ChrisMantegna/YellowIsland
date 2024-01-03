@@ -6,11 +6,12 @@ title: "Long Term Intertidal Monitoring on Yellow Island."
 
 The impacts of anthropogenic activities on natural environments are growing ever more complex and far-reaching. Moreover, the impacts can be more pervasive and yet go unnoticed in aquatic habitats like marine intertidal environments. Long-term monitoring programs provide an opportunity to examine the (changing) relationship between organisms and their habitats to better inform our understanding of the interplay between biotic and abiotic conditions. This is the second year of the Yellow Island Monitoring project and the first full season of data collection. 
 
-The Yellow Island project focus is on (1) understanding the island's ecology using observation, molecular techniques, and the synthesis of multi-source data, and (2) understanding the interconnectedness of the Salish Sea ecosystem and the foundational changes induced by human activities and climate change. Students will work both onsite at Yellow Island and in the lab collecting qualitative and quantitative data that can help us answer questions of intertidal community composition, food web dynamics, predator prey interactions, and physiological trade-offs in the face of a changing climate.
+The Yellow Island project focus is on (1) understanding the island's ecology using observation, molecular techniques, and the synthesis of multi-source data, and (2) understanding the interconnectedness of the Salish Sea ecosystem and the foundational changes induced by human activities and climate change. Students worked onsite at Yellow Island and in the lab at Friday harbor Labs collecting qualitative and quantitative data that can help us answer questions of intertidal community composition, food web dynamics, predator prey interactions, and physiological trade-offs in the face of a changing climate.
 
-![Yellow Island as seen on approach by boat. **Photo credit**: Angel Quimbita.](images/yi.jpg)
+![Yellow Island as seen on approach by boat. **Photo credit**: Angel Quimbita.](images/yi.jpg){width="3032"}
 
+## *Program Development*
 
-## *Program Development*. 
+The program was created by a collaboration led by University of Washington graduate student Chris Mantegna. The primary program sponsor (support) is Black In Marine Science (BIMS), helmed by CEO Dr. Tiara Moore and BIMS Chief Science Officer Dr. Camille Gaynus. The program partner is The Nature Conservancy (TNC) with on-site co-mentor and Yellow Island Land Steward Matt Axling.
 
-The program was created by a collaboration led by University of Washington graduate student Chris Mantegna. The primary program sponsor (support) is Black In Marine Science (BIMS) CEO Dr. Tiara Moore, and BIMS Chief Science Officer Dr. Camille Gaynus
+Working together we identified a need for immediate and long- term data of the marine environment for TNC, the managers of Yellow Island. TNC would reciprocate by providing access to the island to scholars from marginalized backgrounds to learn ecological field methods safely and without interference. Yellow Island is an 11 acre island that will take
