@@ -1,6 +1,11 @@
 ---
-title: projects/ products
+title: "Products"
 ---
 
-this is where the projects the scholars & reus have completed will be loaded.
-either in photos or links or whatever with a description.
+The Scholars have produced more than these finite products and there's even more to come! Check back for updates to interact with their content.
+
+If you're looking for Logan's Poster References, you can find them [here.](https://github.com/ChrisMantegna/yellowisland/blob/293bcf45ed70d2bbf5531b2310809259310fad38/EvansREUpaper.pdf)
+
+![](images/products.png)
+
+![This program wouldn't exist without the support of these organizations. Thank you!](images/logobar.png)
