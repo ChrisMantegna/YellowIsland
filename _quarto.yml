@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: 2022.qmd
-        text: 2022 Cohort
       - href: 2023.qmd
         text: 2023 Cohort
+      - href: 2022.qmd
+        text: 2022 Cohort
       - href: projects.qmd
         text: Projects
       - href: mentorship.qmd

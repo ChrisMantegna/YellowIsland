@@ -1,6 +1,5 @@
 ---
-title: "About"
+title: "2023 Cohort - Locking in the Methods"
 ---
 
 This is where the 2023 cohort landing page
-
