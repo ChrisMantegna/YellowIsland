@@ -2,6 +2,6 @@
 title: "2023 Cohort - Locking in the Methods"
 ---
 
-![](images/yikamryn.heic) | The 2023 Cohort was a combination of Doris Duke Conservation Scholars (Carly & Kamryn) and Friday Harbor Labs REU Scholars (Logan & Coira). Together they took over 500 quadrats of data and made guidebooks, videos, presentations and posters to communicate their work!
-
 ![](images/2023skillscohort.png){width="380"}
+
+The 2023 Cohort was a combination of Doris Duke Conservation Scholars (Carly & Kamryn) and Friday Harbor Labs REU Scholars (Logan & Coira). Together they took over 500 quadrats of data and made guidebooks, videos, presentations and posters to communicate their work!
