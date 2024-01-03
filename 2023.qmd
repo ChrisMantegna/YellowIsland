@@ -10,6 +10,12 @@ The 2023 Cohort was a combination of Doris Duke Conservation Scholars (Carly & K
 
 This group took the methods and ran with them! Combining art, ecology, and molecular tools we were able to identify more than 20 different phyla on the island, visualize them and create a family workbook to support families visiting the island. This cohort spent a total of 8 weeks learning Pacific Northwest intertidal organisms and the tools to assess their biodiversity, make hypotheses about their interactions, and begin to tease apart the complexities of aquatic eosystems.
 
+![Stacked bar plots showing phyla identified in 2022 (left) and 2023(right) excluding algal species. By refining methods and data collection the group almost doubled their identification prowess.](images/phyla.png)
+
+Looking forward to continuing analysis on the eDNA work, we will complement the physical survey work with the molecular tools.
+
+![Carley serves as quality control as Logan and Kamryn practice their pipetting skills.](images/molecular.png){fig-align="center"}
+
 Keep your eyes on this site to see updates on current projects in progress! Check out Logan Evan's poster at SICB on Wednesday January 3rd and Chris Mantegna's presentation on Friday January 5th.
 
 ![The Girls Who Flip Rocks](images/2023yiinterns.jpg)
