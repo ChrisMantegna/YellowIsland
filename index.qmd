@@ -2,8 +2,9 @@
 title: "Long Term Intertidal Monitoring on Yellow Island."   
 ---
 
-* Forgive us our broken links, this page is undergoing a facelift. April 2024*
-### ***A Black In Marine Science x The Nature Conservancy Program***
+*Forgive us our broken links, this page is undergoing a facelift. April 2024*
+
+**A Black In Marine Science x The Nature Conservancy Program**
 
 The impacts of anthropogenic activities on natural environments are growing ever more complex and far-reaching. Moreover, the impacts can be more pervasive and yet go unnoticed in aquatic habitats like marine intertidal environments. Long-term monitoring programs provide an opportunity to examine the (changing) relationship between organisms and their habitats to better inform our understanding of the interplay between biotic and abiotic conditions. This is the second year of the Yellow Island Monitoring project and the first full season of data collection. 
 
@@ -26,7 +27,7 @@ Working together we identified a need for immediate and long- term data of the m
 ### Click on the cohort year to see what they accomplished over their summer internship.
 
 |                                    [2022 Cohort](https://chrismantegna.github.io/yellowisland/2022.html)                                    |                                               [2023 Cohort](https://chrismantegna.github.io/yellowisland/2023.html)                                               |
-|:-------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|:--------------------------------:|:------------------------------------:|
 |                                                   ![](images/2022yiall.JPG){width="348"}                                                    |                                                              ![](images/2023yiall.jpg){width="350"}                                                               |
 |                                                                                                                                             |                                                                                                                                                                   |
 | 2022 DDCSP Scholars with program mentors. From left to right, Chris Mantegna, Angel Quimbita, Luna Peralta, Taylor Umetsu, and Matt Axling. | 2023 DDCSP and REU Scholars with program mentors. From left to right, Chris Mantegna, Carley Bishop, Logan Evans, Kamryn You Mak, Coira Williams, and Matt Axling |
